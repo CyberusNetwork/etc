@@ -1,0 +1,2 @@
+/dev/wd0b none swap sw
+/dev/wd0a / ffs rw 1 1
