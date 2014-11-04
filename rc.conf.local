@@ -1,0 +1,4 @@
+ntpd_flags=		# enabled during install
+snmpd_flags=		# configure snmpd
+dhcpd_flags="sis0"	# Enable DHCP Server Daemon to start 
+pf=NO			# Disable PF during the boot
