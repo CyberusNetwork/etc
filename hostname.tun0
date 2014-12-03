@@ -1,4 +1,3 @@
 #Server
-/usr/local/sbin/openvpn --daemon --config /etc/openvpn/server.conf
-
-#inet 10.8.0.1 255.255.255.0 NONE
+!/usr/local/sbin/openvpn --daemon --config /etc/openvpn/server.conf
+!/usr/local/sbin/openvpn --daemon --config /etc/openvpn/client.conf

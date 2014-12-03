@@ -52,3 +52,9 @@ dnslog:*************:104:103::0:0:tinydns:/nonexistent:/sbin/nologin
 _mysql:*************:502:502:daemon:0:0:MySQL Account:/nonexistent:/sbin/nologin
 _apache2:*************:576:576:daemon:0:0:Apache HTTP Server:/var/empty:/sbin/nologin
 cyberus_openvpn:*************:1000:1001::0:0::/dev/null:/bin/false
+_rrdcached:*************:726:726:daemon:0:0:rrdcached user:/nonexistent:/sbin/nologin
+costet:$2a$06$u7sojjeVZfsNFRS510x7beq8Op4/aoCtWxBLwv63a4ToZOxIa9m4.:1001:10::0:0:costet:/home/costet:/bin/ksh
+thibault:$2a$06$5Dow9CO03LvCijnYaV3GZOF13v9WcOczMUKCiBXxcvpgWuJ/iU9RK:1002:10::0:0:Adrien Thibault:/home/thibault:/bin/ksh
+alain:$2a$06$tnltFziZ9C3tbhQ4uLqyIOCBofRrqJ0NyLiHtJ8.5M4vm2IfocmOe:1003:10::0:0:alain:/home/alain:/bin/ksh
+adjevi:$2a$06$fgA/w6XDPfjS8bZjykgcAujhngU2AFWOw.51QADcyFFARqFEDfKfO:1004:10::0:0:adjevi:/home/adjevi:/bin/ksh
+dnscache:*************:105:103::0:0:tinydns:/nonexistent:/sbin/nologin

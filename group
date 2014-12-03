@@ -10,7 +10,7 @@ wsrc:*:9:
 users:*:10:
 auth:*:11:
 games:*:13:
-staff:*:20:root
+staff:*:20:root,costet
 smmsp:*:25:
 sshd:*:27:
 _portmap:*:28:
@@ -72,3 +72,7 @@ dns:*:103:
 _mysql:*:502:
 _apache2:*:576:
 cyberus_openvpn:*:1001:
+_rrdcached:*:726:
+chrapach:*:104:
+test:*:999:
+thibault:*:1002:

@@ -1,0 +1,6 @@
+cyberus_client,10.8.0.4
+adrien_client,10.8.0.8
+raphael_client,10.8.0.12
+alain_client,10.8.0.16
+test_client,10.8.0.20
+test1_client,10.8.0.24
